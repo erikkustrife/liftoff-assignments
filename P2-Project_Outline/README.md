@@ -7,12 +7,23 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Our Project is a web-based app that will allow multiple useres to track their Bad or goob habits that they either want to remove or reinforce. With Timeline and tracking capabilities you'll be able to know how well your doing in managing the aspects of your life that often fall to your subconscious. Useres will be able to have track mutliple habits and even have time listings of their history in enganging in them. Want to quit smoking? Then just ween your self off over time. Just remove one instance of the habit each week untill youv cut it down to what you want. Want to exercise more? Just add an extra 5 mins each week till your at your target and feeling good.
 ### Features
-Include Features here
+User login: Users will be able to create accounts and log in to the application. Each user will have a profile page.
+Search: Useres will be able to look at a history of their habits.
+Create habits/remove habits: Users will be able to add and remove habits.
+
 ### Technologies
-Include Technologies here
+Java
+JavaScript
+React
+mysql
+Css
+Html
 ### What I'll Have to Learn
-Include what you will need to learn here
+React.
+Coding
+How to be a happy person.
+The meaning of life.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/uH9NEjBx/liftoff
